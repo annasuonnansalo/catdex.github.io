@@ -49,6 +49,20 @@ section.grid article .img {
     background-position: center;
 }
 
+
+section.info article {
+    background-color: #FAEBCF;
+    max-width: 1000px;
+    width: 100%;
+    margin: 10px auto;
+}
+section.info article img {
+    float: left;
+    margin-right: 12px;
+    margin-bottom: 12px;
+    width: 50%;
+}
+
 footer {
     background: #6F797A;
     font-size: 12px;
