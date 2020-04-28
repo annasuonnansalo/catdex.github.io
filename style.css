@@ -87,6 +87,7 @@ section.feature article {
     padding: 12px;
     box-shadow: 0 0 16px rgba(0,0,0,0.15);
 }
+ /* Breed pages */
 
 section.breedinfo article {
     background-color: rgb(252, 251, 249);
@@ -196,6 +197,30 @@ section.morebreeds .suggestions h2 {
     padding: 0 12px;
     text-align: center;
 }
+/* Most expensive cats */
+
+section.intro article {
+    background-color: rgb(252, 251, 249);
+    max-width: 1000px;
+    width: 100%;
+    margin: 20px auto;
+    padding: 16px;
+    box-shadow: 0 0 16px rgba(0,0,0,0.15);
+}
+
+section.countdown article {
+    background-color: rgb(252, 251, 249);
+    max-width: 1000px;
+    width: 100%;
+    margin: 20px auto;
+    padding: 16px;
+    box-shadow: 0 0 16px rgba(0,0,0,0.15);
+}
+section.countdown img {
+    //
+}
+
+/* Footer */
 
 footer {
     background: #6F797A;
